@@ -7,7 +7,7 @@ Main Features:
 - Accept funds without third-party services
 - Deposit, promocode, swap, balance transfers, connect with seed phrase (send directly to your Telegram), stacking, verification, transaction history
 - Real-time information on user actions through Telegram bot or channel
-- Live Support Chat
+- Live Support Chat.
 
 Requirements:
 Web Hosting
