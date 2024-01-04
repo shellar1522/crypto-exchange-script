@@ -11,7 +11,7 @@
 - Live Support Chat.
 
 # Requirements:
-Web Hosting
+Web Hosting.
 PHP 5.6
 
 # 🌐Admin Panel Features:
