@@ -21,7 +21,7 @@ PHP 5.6
 - Set minimum deposit for withdrawal and trade commission for new users
 - Enable/disable user withdrawals
 - Set default withdrawal error for all users
-- Customize the minimum deposit amount for "withdraw"
+- Customize the minimum deposit amount for "withdraw".
 
 # Contact me: https://t.me/st_code Demo Available
 ​
